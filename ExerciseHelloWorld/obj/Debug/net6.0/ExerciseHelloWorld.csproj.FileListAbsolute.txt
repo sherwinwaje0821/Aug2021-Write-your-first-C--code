@@ -1,0 +1,16 @@
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\bin\Debug\net6.0\ExerciseHelloWorld.exe
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\bin\Debug\net6.0\ExerciseHelloWorld.deps.json
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\bin\Debug\net6.0\ExerciseHelloWorld.runtimeconfig.json
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\bin\Debug\net6.0\ExerciseHelloWorld.dll
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\bin\Debug\net6.0\ExerciseHelloWorld.pdb
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\ExerciseHelloWorld.csproj.AssemblyReference.cache
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\ExerciseHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\ExerciseHelloWorld.AssemblyInfoInputs.cache
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\ExerciseHelloWorld.AssemblyInfo.cs
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\ExerciseHelloWorld.ImplicitNamespaceImports.cs
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\ExerciseHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\ExerciseHelloWorld.dll
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\refint\ExerciseHelloWorld.dll
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\ExerciseHelloWorld.pdb
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\ExerciseHelloWorld.genruntimeconfig.cache
+C:\Users\human\Documents\GitHub\Aug2021-Write-your-first-C--code\exercisehelloworld\obj\Debug\net6.0\ref\ExerciseHelloWorld.dll
